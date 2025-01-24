@@ -21,3 +21,5 @@ for nombre_directorio, dirs, ficheros in os.walk(directorio_evtx):
                     print(record.xml())  # O cualquier otro procesamiento que necesites
         else:
             print(f"No es un archivo evtx: {nombre_fichero}")
+
+# AQUI VA LO QUE SIGUE
