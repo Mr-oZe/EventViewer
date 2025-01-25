@@ -3,7 +3,7 @@ import evtx
 
 # Obtener el directorio de trabajo actual
 directorio_actual = os.getcwd()
-print(f"Directorio actual: {directorio_actual}")
+#print(f"Directorio actual: {directorio_actual}")
 
 # Ruta de la carpeta EVTX (puedes modificarla según sea necesario)
 directorio_evtx = os.path.join(directorio_actual, 'eventviewer')
