@@ -24,3 +24,4 @@ for nombre_directorio, dirs, ficheros in os.walk(directorio_evtx):
 
 # AQUI VA LO QUE SIGUE
 # OTRA LINEA
+# Otra línea
